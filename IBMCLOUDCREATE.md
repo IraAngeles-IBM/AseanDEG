@@ -9,7 +9,7 @@
 
  ![Create IBM Cloud account](assets/ibmcloudcreate.png)
 
-4. Check for your email from IBM Cloud team
+4. Check your email from IBM Cloud team
 
  ![Check email frmom IBM Cloud team](assets/ibmcloudemail.png)
 
