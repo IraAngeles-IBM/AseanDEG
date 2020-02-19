@@ -1,23 +1,23 @@
 # Create IBM Cloud Account
 
 1. Go to [IBM Cloud](https://cloud.ibm.com)
-2. Create IBMId/Cloud account. Click on the highlighted button on the left
+2. Create IBMId and Cloud account. Click on the highlighted button on the left
 
-![alt text](assets/ibmcloud.png)
+![IBM Cloud](assets/ibmcloud.png)
 
 3. Fill in the account details and click on the create button at the botoom
 
-![alt text](assets/ibmcloudcreate.png)
+![Create IBM Cloud account](assets/ibmcloudcreate.png)
 
-4. Check for your email from IBM Cloud
+4. Check for your email from IBM Cloud team
 
-![alt text](assets/ibmcloudemail.png)
+![Check email frmom IBM Cloud team](assets/ibmcloudemail.png)
 
-5. Sign in with the newly created IBM id
+5. Log in with the created IBM id
 
-![alt text](assets/ibmcloudsignin.png)
+![Log in](assets/ibmcloudsignin.png)
 
 6. Welcome to [IBM Cloud](https://cloud.ibm.com)
 
-![alt text](assets/ibmcloudwelcome.png)
+![IBM Cloud dashboard](assets/ibmcloudwelcome.png)
 
