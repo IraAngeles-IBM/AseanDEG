@@ -11,13 +11,17 @@
 
 4. Check your email from IBM Cloud team
 
+ ![Confirm account from IBM Cloud team](assets/ibmcloudconfirm.png)
+
+5. You will receive Welcome email from IBM Cloud team
+
  ![Check email frmom IBM Cloud team](assets/ibmcloudemail.png)
 
-5. Log in with the created IBM id
+6. Log in with the created IBM id
 
  ![Log in](assets/ibmcloudsignin.png)
 
-6. Welcome to [IBM Cloud](https://cloud.ibm.com)
+7. Welcome to [IBM Cloud](https://cloud.ibm.com)
 
  ![IBM Cloud dashboard](assets/ibmcloudwelcome.png)
 
