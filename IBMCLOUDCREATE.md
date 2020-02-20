@@ -13,7 +13,7 @@
 
  ![Confirm account from IBM Cloud team](assets/ibmcloudconfirm.png)
 
-5. You will receive Welcome email from IBM Cloud team
+5. You will receive a Welcome email from IBM Cloud team
 
  ![Check email frmom IBM Cloud team](assets/ibmcloudemail.png)
 
