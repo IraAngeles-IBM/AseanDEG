@@ -17,7 +17,7 @@
 
  ![Check email frmom IBM Cloud team](assets/ibmcloudemail.png)
 
-6. Log in with the created IBM id
+6. Log in with the created IBM id (use the same email address provided in step 3)
 
  ![Log in](assets/ibmcloudsignin.png)
 
