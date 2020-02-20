@@ -7,7 +7,7 @@
 
 1. Proceed to [IBM Cloud registration site](https://ibm.biz/BdqHxa)
 
-2. Fill in the account details and click on the create button at the botoom
+2. Fill in the account details and click on the create button at the botoom (account creation)
 
  ![Create IBM Cloud account](assets/ibmcloudcreate.png)
 
@@ -19,7 +19,7 @@
 
  ![Check email frmom IBM Cloud team](assets/ibmcloudemail.png)
 
-5. Log in with the created IBM id (use the same email address provided in step 3)
+5. Log in with the created IBM id (use the same email address provided in account creation step)
 
  ![Log in](assets/ibmcloudsignin.png)
 
